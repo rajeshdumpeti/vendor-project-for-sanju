@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rajeshdumpeti/vendor-project-for-sanju/static/css/main.2b296c3a.css",
+    "main.js": "/rajeshdumpeti/vendor-project-for-sanju/static/js/main.e686b123.js",
+    "static/js/453.14c1cf5e.chunk.js": "/rajeshdumpeti/vendor-project-for-sanju/static/js/453.14c1cf5e.chunk.js",
+    "index.html": "/rajeshdumpeti/vendor-project-for-sanju/index.html",
+    "main.2b296c3a.css.map": "/rajeshdumpeti/vendor-project-for-sanju/static/css/main.2b296c3a.css.map",
+    "main.e686b123.js.map": "/rajeshdumpeti/vendor-project-for-sanju/static/js/main.e686b123.js.map",
+    "453.14c1cf5e.chunk.js.map": "/rajeshdumpeti/vendor-project-for-sanju/static/js/453.14c1cf5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b296c3a.css",
+    "static/js/main.e686b123.js"
+  ]
+}
