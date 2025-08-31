@@ -2,7 +2,7 @@
   "name": "vendor-project-for-sanju",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/rajeshdumpeti/vendor-project-for-sanju",
+  "homepage": "https://rajeshdumpeti.github.io/vendor-project-for-sanju",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
