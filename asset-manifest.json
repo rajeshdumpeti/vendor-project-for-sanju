@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vendor-project-for-sanju/static/css/main.2b296c3a.css",
-    "main.js": "/vendor-project-for-sanju/static/js/main.a684ddd5.js",
+    "main.css": "/vendor-project-for-sanju/static/css/main.855b6dac.css",
+    "main.js": "/vendor-project-for-sanju/static/js/main.3decd13d.js",
     "static/js/453.14c1cf5e.chunk.js": "/vendor-project-for-sanju/static/js/453.14c1cf5e.chunk.js",
     "index.html": "/vendor-project-for-sanju/index.html",
-    "main.2b296c3a.css.map": "/vendor-project-for-sanju/static/css/main.2b296c3a.css.map",
-    "main.a684ddd5.js.map": "/vendor-project-for-sanju/static/js/main.a684ddd5.js.map",
+    "main.855b6dac.css.map": "/vendor-project-for-sanju/static/css/main.855b6dac.css.map",
+    "main.3decd13d.js.map": "/vendor-project-for-sanju/static/js/main.3decd13d.js.map",
     "453.14c1cf5e.chunk.js.map": "/vendor-project-for-sanju/static/js/453.14c1cf5e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b296c3a.css",
-    "static/js/main.a684ddd5.js"
+    "static/css/main.855b6dac.css",
+    "static/js/main.3decd13d.js"
   ]
 }
