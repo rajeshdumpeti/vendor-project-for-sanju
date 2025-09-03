@@ -97,8 +97,8 @@ const App = () => {
   const [roleFilter, setRoleFilter] = useState('All');
 
   const vendors = [
-    { id: '1', name: 'John Doe', role: 'Electrician', phoneNumber: '+1234567890' },
-    { id: '2', name: 'Jane Smith', role: 'Plumber', phoneNumber: '+1987654321' },
+    { id: '1', name: 'Rajesh Dumpeti', role: 'Electrician', phoneNumber: '+6198329657' },
+    { id: '2', name: 'Sanjeev Tegula', role: 'Plumber', phoneNumber: '+19046350933' },
     { id: '3', name: 'Bob Johnson', role: 'Cleaner', phoneNumber: '+1122334455' },
     { id: '4', name: 'Alice Williams', role: 'Electrician', phoneNumber: '+1555666777' },
     { id: '5', name: 'David Brown', role: 'Plumber', phoneNumber: '+1444555666' },
